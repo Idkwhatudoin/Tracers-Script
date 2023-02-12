@@ -1,4 +1,4 @@
-local function API_Check()
+local function API_Check()0
     if Drawing == nil then
         return "No"
     else
